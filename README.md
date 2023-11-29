@@ -1,4 +1,4 @@
-Project 3: Virtual Memory Simulator
+Project 1: Virtual Memory Simulator
 ==========================
 
 To submit your project code, submit your GitHub Classroom repository to Gradescope. **Only the following files will be used for grading**:
